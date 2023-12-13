@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jogo da memória", "Jogo da memória\Jogo da memória.csproj", "{D0EF37C5-E16B-4BED-A9F5-F0F826BA5EE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{AADE3EB0-199F-42BE-AC04-656EE7BA3775}"
+	ProjectSection(SolutionItems) = preProject
+		Program.cs = Program.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0EF37C5-E16B-4BED-A9F5-F0F826BA5EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0EF37C5-E16B-4BED-A9F5-F0F826BA5EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0EF37C5-E16B-4BED-A9F5-F0F826BA5EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0EF37C5-E16B-4BED-A9F5-F0F826BA5EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C07BECA3-4856-4EE2-ACB0-AE917EE579D5}
+	EndGlobalSection
+EndGlobal

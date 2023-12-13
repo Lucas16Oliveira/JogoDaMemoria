@@ -1,0 +1,10 @@
+Icone
+Musica
+opcoes - musica, efeito sonoro 
+loja
+programar moedas
+//fazer leveis 
+customizar novo utilizador
+colocar som de erro no lugar das messabe box 
+trocar as fotos  
+creditos
